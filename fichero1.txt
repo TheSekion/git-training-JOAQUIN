@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ahora estamos en la primer linea desde feature/joaquin
 test
+=======
+Primer línea desde MAIN
+>>>>>>> main
